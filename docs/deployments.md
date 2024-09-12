@@ -48,8 +48,5 @@ The latest release allows user to download LLM artifacts directly from hugging f
 #### Read more 
 [Read more.](https://github.com/oracle-samples/oci-data-science-ai-samples/blob/main/ai-quick-actions/model-deployment-tips.md)
 
-<html>
 
 [⬅️ Notebooks](notebook.md) &nbsp; [🏠 Back to Home](../README.md) &nbsp; [➡️ Register and use models](register_use_model.md)
-
-</html>
