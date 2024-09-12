@@ -41,8 +41,12 @@ Ready-to-Register models have been tested by Data Science, but the model artifac
 - Please note that you will not be able to view or use the instance directly from the tenancy, as its deployed and securely served from OCI service managed tenancies.Respective GPU count limit will be used from User tenancy and the cost will be charged accordingly.
 
 
+### Note
+The latest release allows user to download LLM artifacts directly from hugging face and deploy with quantization enabled on Arm based compute - Refer official documentation [here.](https://docs.oracle.com/en-us/iaas/data-science/using/ai-quick-actions-models-byom.htm#ai-quick-actions-models-unverified)
+
+
 #### Read more 
 [Read more.](https://github.com/oracle-samples/oci-data-science-ai-samples/blob/main/ai-quick-actions/model-deployment-tips.md)
 
 
-[⬅️ Notebooks](notebook.md)[🏠 Back to Home](../README.md) [➡️ Register and use models](register_use_model.md)
+[⬅️ Notebooks](notebook.md) &nbsp; [🏠 Back to Home](../README.md) &nbsp; [➡️ Register and use models](register_use_model.md)
