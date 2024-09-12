@@ -34,7 +34,7 @@ vulnerability disclosure process.
 
 Author: [Rahul M R.](https://github.com/RahulMR42)
 
-Last release: Jul 2024
+Last release: Aug 2024
 
 
 ## Credits
